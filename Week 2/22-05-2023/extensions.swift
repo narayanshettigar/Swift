@@ -1,0 +1,1 @@
+// An extension in Swift is used to add new methods, properties, or behaviors to an existing type without modifying its original implementation. It provides a way to extend the functionality of a type, promoting code reuse and enhancing code organization.
